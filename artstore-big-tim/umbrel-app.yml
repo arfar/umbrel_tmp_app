@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: big-tim
+id: big-tim-big-tim
 name: Big Tim
 tagline: The new way to handle time
 icon: https://svgur.com/i/mvA.svg
@@ -11,8 +11,8 @@ description: >-
 
   To be repalce by this bad boy
 
-developer: Umbrel
-website: https://umbrel.com
+developer: Arthur
+website: arfy.party
 submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
@@ -22,7 +22,7 @@ gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Version 0.1 - nothing and everythign is new
 dependencies: []
 path: ""
 defaultUsername: ""
