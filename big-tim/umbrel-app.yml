@@ -1,16 +1,15 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: big-tim
+name: Big Tim
+tagline: The new way to handle time
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here.
+  Clocks are old, UTC is dumb, everything time related must die
 
-
-  You can also add newlines!
+  To be repalce by this bad boy
 
 developer: Umbrel
 website: https://umbrel.com
